@@ -11,7 +11,7 @@
 </head>
 
 <body>
-    <h1>Page base</h1>
+    <h1>Page Acceuil</h1>
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
         <div class="container-fluid bg-dark">
             <img src="public/img/logo_poleS.png" alt="logo" width="100">
@@ -21,7 +21,7 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav">
                     <li class="nav-item ">
-                        <a class="nav-link active text-light" aria-current="page" href="/base.php">Les bases</a>
+                        <a class="nav-link active text-light" aria-current="page" href="/">Acceuil</a>
                     </li>
                 </ul>
             </div>
