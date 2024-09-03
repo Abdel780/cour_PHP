@@ -20,10 +20,12 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav">
-                    <li class="nav-item ">
+                    <li class="nav-item d-flex">
                         <a class="nav-link active text-light" aria-current="page" href="/">Acceuil</a>
                         <a class="nav-link active text-light" aria-current="page" href="/base.php">Les bases</a>
                         <a class="nav-link active text-light" aria-current="page" href="/variable.php">Les variable</a>
+                        <a class="nav-link active text-light" aria-current="page" href="/constante.php">Les constantes</a>
+                        <a class="nav-link active text-light" aria-current="page" href="/concatenation.php">Les concatenation</a>
                     </li>
                 </ul>
             </div>
