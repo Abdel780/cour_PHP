@@ -1,7 +1,9 @@
-.flex{
-    display: flex;
+
+footer {
+    margin-top: 50px;
 }
 
-.logoimg{
-    width: 100px;
+a{
+    color: white;
+    text-decoration: none;
 }
