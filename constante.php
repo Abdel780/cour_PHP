@@ -1,4 +1,5 @@
 <?php
+    $myPage = 'Les constantes';
     require 'partial/head.php';
 ?>
     <h1>Les constantes</h1>

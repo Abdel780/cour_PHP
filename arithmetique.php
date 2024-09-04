@@ -1,4 +1,5 @@
 <?php
+    $myPage = 'Les arithmetique';
     require 'partial/head.php';
 ?>
 
@@ -82,5 +83,5 @@ echo '<p>$k = ++$i; </br>// la variable $i est incrémentée de 1, puis elle est
 ?>
 
 <?php
-    require 'partial/footer.php';
+    require 'partial/footer.php';   
 ?>
