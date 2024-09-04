@@ -26,6 +26,8 @@
                         <a class="nav-link active text-light" aria-current="page" href="/variable.php">Les variable</a>
                         <a class="nav-link active text-light" aria-current="page" href="/constante.php">Les constantes</a>
                         <a class="nav-link active text-light" aria-current="page" href="/concatenation.php">Les concatenation</a>
+                        <a class="nav-link active text-light" aria-current="page" href="/arithmetique.php">Les arithmetique</a>
+                        <a class="nav-link active text-light" aria-current="page" href="/condition.php">Les conditions</a>
                     </li>
                 </ul>
             </div>
