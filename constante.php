@@ -22,7 +22,7 @@
          // Affiche le chemin complet vers le dossier de notre fichier
     echo __DIR__ . '</br>';
         // Affiche le chemin complet vers le fichier (dossier + nom du fichier)
-    echo __FILE__ . '</br>';
+    '</br>';
 ?>
 
 <button type="button" class="btn btn-dark mt-5">
